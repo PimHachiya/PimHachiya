@@ -1,4 +1,9 @@
-## Hiya 👋 Thanks for taking aminute to read this~
+## Hiya 👋 Thanks for taking a minute to read this~
+
+Seasoned professional with extensive experience in biotech. Professional work includes gathering business requirements, process evaluation and deploying robust, scalable solutions that meet the current need with room for future growth. Lab work includes establishing large, complex, automated assay development compatible with robotic platform(s). Strong experience working collaboratively across development, process management, analytics, quality and IT teams. Currently studying: AWS Solutions Architect: SAP-C02| Python: Openpyxl, PyTorch, Matplotlib, Seaborn |Neo4j: Cypher; | PowerBI |HL7 FHIR |UiPath | Figma 
+
+Personally, coding for the greater good.  Writing to answer some of the greater questions in my household: ‘Did you feed the dog today?’ and ‘Did you wash my wool sweater?’  
+Hopfully the answers are 'Yes' and 'No' in that order.....
 
 
 - 🔭 I’m currently working on an application to track who fed our dog... He can always eat and there are more than two opposable thumbs in play.
