@@ -1,5 +1,5 @@
-## Hiya 👋
-# I've worked coding for biotech companies for years.  Now working on streamlining
+## Hiya 👋 Thanks for taking aminute to read this~
+
 
 - 🔭 I’m currently working on an application to track who fed our dog... He can always eat and there are more than two opposable thumbs in play.
 - 🌱 I’m currently learning using tensor flow to answer some ML questions.
@@ -8,4 +8,4 @@
 - 💬 Ask me about assay miniturization, books and biotech.
 - 📫 How to reach me: tag me here to say hello~
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: recovering HTS bench scientist- love automating assay execution and data analysis
+- ⚡ Fun fact: recovering HTS bench scientist- I love automating assay execution and data analysis.
